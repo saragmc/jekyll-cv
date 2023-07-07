@@ -1,4 +1,4 @@
-name: Sara Gabrielly
+name: Sara Gabrielly Maia Costa
 support_dark_mode: true
 fork: true
 
@@ -17,20 +17,20 @@ languages:
   - idiom: 
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: Ensino Fundamental
+    time: 2010-2022
+    university: CSCM
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Técnico em informática integrado
+    time: 2023-2027
+    university: Instituto Federal do Rio Grande do Norte 
 
 skills:
-  - category: Backend
+  - category: esporte
     skill: 
       - Go
       - Rust
-  - category: Frontend
+  - category: Cálculos
     skill:
       - React
       - Typescript
